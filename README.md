@@ -10,3 +10,5 @@ API keys for the TMDB are:
 Example API Request: https://api.themoviedb.org/3/movie/550?api_key=8ece5df1bf477e3fc753d4c5bd69b285
 
 Application is hosted on firebase.
+
+API call were made using axios library.

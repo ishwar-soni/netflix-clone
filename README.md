@@ -12,3 +12,5 @@ Example API Request: https://api.themoviedb.org/3/movie/550?api_key=8ece5df1bf47
 Application is hosted on firebase.
 
 API call were made using axios library.
+
+deployed link can be found at: https://netflix-clone-ishwar.web.app/
